@@ -30,7 +30,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#eee"
+        android:background="#00c81f"
         android:layout_above="@+id/id_bottom_section">
 
         <ListView
